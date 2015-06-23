@@ -1,0 +1,22 @@
+{
+  "name": "ding-dong-sample",
+  "version": "0.0.1",
+  "description": "ding-dong sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/ding-dong-sample"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antirek/ding-dong-sample/issues"
+  },
+  "homepage": "https://github.com/antirek/ding-dong-sample",
+  "dependencies": {
+    "ding-dong": "^0.1.1"
+  }
+}
